@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/karimli/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/karimli/static/js/main.714cd7c7.chunk.js",
+    "main.js.map": "/karimli/static/js/main.714cd7c7.chunk.js.map",
+    "runtime-main.js": "/karimli/static/js/runtime-main.26615ab9.js",
+    "runtime-main.js.map": "/karimli/static/js/runtime-main.26615ab9.js.map",
+    "static/js/2.03454c52.chunk.js": "/karimli/static/js/2.03454c52.chunk.js",
+    "static/js/2.03454c52.chunk.js.map": "/karimli/static/js/2.03454c52.chunk.js.map",
+    "static/js/3.e2877894.chunk.js": "/karimli/static/js/3.e2877894.chunk.js",
+    "static/js/3.e2877894.chunk.js.map": "/karimli/static/js/3.e2877894.chunk.js.map",
+    "index.html": "/karimli/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/karimli/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.03454c52.chunk.js.LICENSE.txt": "/karimli/static/js/2.03454c52.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/karimli/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26615ab9.js",
+    "static/js/2.03454c52.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.714cd7c7.chunk.js"
+  ]
+}
